@@ -1,0 +1,7 @@
+{
+  "name": "Pakistan School Bahrain Official",
+  "description": "A modern, multilingual web application for Pakistan School Bahrain featuring dynamic themes, font customization, and real-time information grounding.",
+  "requestFramePermissions": [
+    "geolocation"
+  ]
+}
